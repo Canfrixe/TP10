@@ -1,0 +1,12 @@
+123548796 crayon 1.20
+132547896 cahier 2.40
+132658974 feutre 1.80
+132569874 regle 2.30
+231546987 agrafeuse 5.60
+231547896 classeur 3.60
+213456987 boite_punaises 3.50
+231698547 boite_trombones 4.10
+321469785 ramette_feuillesA4 9.90
+312589647 boite_100enveloppes11*21 8.70 
+312698547 boite_100enveloppes30*21 14.70
+321789654 boite_100enveloppes11*13 8.80
